@@ -16,5 +16,3 @@ AI adoption fails without governance. My work is centered on **OpenSpec-driven d
 *   **Regulated LLM Eval Framework:** Open-source toolkit for calibrated LLM evaluation in high-stakes environments.
 *   **Enterprise Agent Orchestration:** Blueprints for secure multi-agent systems with WIMSE/SPIFFE.
 *   **AI Tax Assistant:** A practical RAG implementation bridging 1C data and Russian LLMs.
-
-📫 **Let's connect:** [LinkedIn](ваша_ссылка) | [Resume/CV](ссылка_на_pdf_если_есть)
